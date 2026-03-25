@@ -12,6 +12,7 @@ No, our team is still trying to find atleast a working exploit.
 - tommyfart.dll
 - lucidity233
 - MikeNiteYT
+- /usr/bin/umi
 
 # Special Thanks
 To HowToFix12342, since he quitted on Kidizoom Unleashed which is linked below these, we decided to create something like that.
