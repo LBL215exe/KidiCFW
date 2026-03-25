@@ -1,1 +1,2 @@
 - Added BMP and APP exploits
+- Added BMP and APP Guides
