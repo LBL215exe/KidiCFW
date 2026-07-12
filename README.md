@@ -1,6 +1,6 @@
 ![Preview](Images/193819-1_large7.png)
 # KidiCFW
-Multiple exploits for the Kidizoom Camera 5.0.
+Exploits for the Kidizoom Camera 5.0.
 
 # WhoAmI?
 I'm a dumb guy who forked the og repo cuz
