@@ -1,22 +1,25 @@
 ![Preview](Images/193819-1_large7.png)
-[![Join the Discord](https://img.shields.io/badge/KidiCFW-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XMe2N63gxv)
 # KidiCFW
-Multiple exploits for the DX2/DX3 Kidizoom Watch.
+Multiple exploits for the Kidizoom Camera 5.0.
 
-# WhoAreUs?
-We are a group of people trying to find exploits for a watch that we all remember from our childhood.
+# WhoAmI?
+I'm a dumb guy who forked the og repo cuz
 
 # Is it finished?
-Yes, our team did find a userland and a kernel exploit, the loader is just getting some final touches
+No, I have not made a single bit of progress
 
-# Contributors:
+# Credits:
 - tommyfart.dll
 - lucidity233
 - MikeNiteYT
 - /usr/bin/umi
 - ReviloRules
 - cuda_ (website developer)
+- LBL215 (Me)
 
 # Special Thanks
+To the team who made KidiCFW, they are the reason this exists.
+https://github.com/awesomecfw/KidiCFW/
+
 To HowToFix12342, since he quitted on Kidizoom Unleashed which is linked below these, we decided to create something like that.
 https://github.com/HowToFix12342/Kidizoom-Unleashed-CFW
